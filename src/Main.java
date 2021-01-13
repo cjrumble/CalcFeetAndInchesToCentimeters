@@ -1,3 +1,7 @@
+/* ***************************************************************************
+This is a comment about the MAIN program.
+*************************************************************************** */
+
 public class Main {
     public static void main(String[] args) {
         double a = CalcFeetAndInchesToCentimeters.calcFeetAndInchesToCentimeters(0, 1);

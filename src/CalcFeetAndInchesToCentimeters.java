@@ -1,3 +1,7 @@
+/* ***************************************************************************
+This is a comment about the CalcFeetAndInchesToCentimeters class/methods.
+*************************************************************************** */
+
 public class CalcFeetAndInchesToCentimeters {
 
     public static double calcFeetAndInchesToCentimeters(double feet, double inches) {
